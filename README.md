@@ -1,4 +1,4 @@
-#GRAPH 
+# GRAPH 
 
 Implemenatation of JS Graph Class making use of Adjacency List. 
 
@@ -17,4 +17,3 @@ depthFirstRecursive : Recursive DFS Traversal
 depthFirstIterative : Iterative DFS Traversal (stack)  
 
 breadthFirst : Iterative BFS Traversal (queue) 
- 
